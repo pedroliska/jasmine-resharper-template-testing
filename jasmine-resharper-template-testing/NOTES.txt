@@ -1,0 +1,4 @@
+﻿- create a new MVC project
+  - empty web application is probably ok
+- create the tests project
+  - empty web application
